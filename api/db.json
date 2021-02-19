@@ -6,12 +6,6 @@
       "id": 1
     },
     {
-      "title": "Mine",
-      "description": "made by me",
-      "userId": "101560845624602337327",
-      "id": 2
-    },
-    {
       "title": "unexpected behavior",
       "description": "didn't expect that",
       "userId": "101560845624602337327",
@@ -21,12 +15,6 @@
       "title": "edit",
       "description": "edited description",
       "id": 4
-    },
-    {
-      "title": "refactor",
-      "description": "patch request",
-      "userId": "101560845624602337327",
-      "id": 5
     }
   ]
 }
